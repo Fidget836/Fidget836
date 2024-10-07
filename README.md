@@ -5,7 +5,7 @@
 I'm a student at 42 School. I currently specialize in fullstack web projects.
 </p>
   <br/>
-<h2 align="center">🛠 Technologies & Skils</h2>
+<h2 align="center">🛠 Technologies & Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,docker,html,css" />
