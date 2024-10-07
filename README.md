@@ -11,7 +11,7 @@ I'm a student at 42 School. I currently specialize in fullstack web projects.
     <img src="https://skillicons.dev/icons?i=c,cpp,docker,html,css" />
     <br/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=js,react,php,laravel,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,git" />
   </a>
 </p>
   <br/>
