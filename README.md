@@ -8,7 +8,7 @@ I'm a student at 42 School. I currently specialize in fullstack web projects.
 <h2 align="center">🛠 Technologies & Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,docker,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,docker,html,css,mysql" />
     <br/>
     <br/>
     <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,git" />
