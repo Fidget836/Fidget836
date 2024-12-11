@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi there, I'm Thomas MARIE 👋</h1>
 <p align="center">
-I'm a student at 42 School. I currently specialize in fullstack web projects.
+  I am currently specializing in application development to obtain an RNCP 6: Designer and developer of IT solutions. I mainly do object-oriented programming in C++
 </p>
-  <br/>
+<br/>
 <h2 align="center">🛠 Technologies & Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
