@@ -11,7 +11,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,docker,html,css,mysql" />
     <br/>
     <br/>
-    <img src="https://skillicons.dev/icons?i=js,ts,react,php,laravel,git" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,php,git" />
   </a>
 </p>
   <br/>
