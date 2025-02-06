@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there, I'm Thomas MARIE 👋</h1>
 <p align="center">
-  I am currently specializing in application development to obtain an RNCP 6: Designer and developer of IT solutions. I mainly do object-oriented programming in C++
+  I'm specializing in application development to obtain an RNCP 6: Designer and developer of IT solutions. I mainly do object-oriented programming in C++ and mobile applications in React Native.
 </p>
 <br/>
 <h2 align="center">🛠 Technologies & Skills</h2>
